@@ -1,0 +1,100 @@
+﻿  Juego.cpp
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlescenas.hpp(2): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlassets.hpp(61): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlassets.hpp(87): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlassets.hpp(115): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(12): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(13): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(14): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(18): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(19): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(20): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(21): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(36): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(39): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(40): warning C4244: '=': conversión de 'const float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(41): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlentradas.hpp(42): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\nodomapa.hpp(2): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(16): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(17): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(37): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(38): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(39): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(69): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(133): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(134): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(147): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(150): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(153): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(216): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\jugador.hpp(267): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\enemigo.hpp(14): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\enemigo.hpp(17): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\enemigo.hpp(18): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\enemigo.hpp(19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\enemigo.hpp(20): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\ctrlenemigos.hpp(60): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\ctrlenemigos.hpp(61): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\ctrlenemigos.hpp(76): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\ctrlenemigos.hpp(89): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\ctrlenemigos.hpp(102): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(24): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(25): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(80): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(81): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(86): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(129): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(145): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(162): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(189): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(217): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(221): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(222): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(234): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(267): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(292): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(293): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(294): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(302): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(303): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(304): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(322): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\trozomapa.hpp(323): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\nodomapa.hpp(3): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\mapa.hpp(3): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\mundo.hpp(6): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenapausa.hpp(2): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenapausa.hpp(41): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenapausa.hpp(42): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenapausa.hpp(43): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenapausa.hpp(44): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenapausa.hpp(47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenapausa.hpp(48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenapausa.hpp(49): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenapausa.hpp(50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenaperdiste.hpp(25): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenaperdiste.hpp(31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\mundo.hpp(7): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\mundo.hpp(67): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\mundo.hpp(104): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\mundo.hpp(105): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenajuego.hpp(30): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenamenu.hpp(29): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenamenu.hpp(34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\escenamenu.hpp(40): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\juego.cpp(19): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\juego.cpp(20): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Generando código...
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlescenas.hpp(69): warning C4715: 'ControlEscenas::getActiveScene': no todas las rutas de acceso de control devuelven un valor
+c:\users\pc\documents\visual studio 2017\projects\trabajo-final_algoritmos\trabajofinal\trabajofinal\controlescenas.hpp(77): warning C4715: 'ControlEscenas::getGameScene': no todas las rutas de acceso de control devuelven un valor
+  Omitiendo... (no se detectaron cambios relevantes)
+  main.cpp
+  trabajoFinal.vcxproj -> C:\Users\PC\Documents\Visual Studio 2017\Projects\TRABAJO-FINAL_ALGORITMOS\trabajoFinal\Debug\trabajoFinal.exe
+  trabajoFinal.vcxproj -> C:\Users\PC\Documents\Visual Studio 2017\Projects\TRABAJO-FINAL_ALGORITMOS\trabajoFinal\Debug\trabajoFinal.pdb (Partial PDB)
